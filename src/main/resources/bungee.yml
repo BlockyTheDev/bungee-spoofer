@@ -1,0 +1,3 @@
+name: FakeAuth
+version: @version@
+main: me.jtagt.fakeauth.FakeAuth
